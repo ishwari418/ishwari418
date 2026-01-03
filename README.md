@@ -1,52 +1,88 @@
-# Hi, I’m Ishwari 👋  
-
-I’m a **Computer Science (AI & ML) student** who enjoys building practical AI systems that actually work — not just models that look good in notebooks.
-
-I’m especially interested in **LLM-based applications, intelligent backends, and data-driven tools** that solve real problems.
+<h1 align="center">Hi 👋, I'm Ishwari</h1>
+<h3 align="center">AIML'28 Undergraduate | Open Source Contributor</h3>
 
 ---
 
-## 👩‍💻 What I Work On
-- Designing and building **AI-powered applications**
-- Exploring **LLMs, NLP, and knowledge-based systems**
-- Turning ideas into **end-to-end projects** with clean logic and usable interfaces  
-- Learning how real systems are designed, deployed, and improved  
+##  About Me
+I’m **Ishwari**, an **AI & Machine Learning (AIML) undergraduate (Batch of 2028)** with a strong interest in building practical software solutions and data-driven systems.
 
-I care more about **clarity and impact** than buzzwords.
+I actively work with **programming, databases, and web technologies**, and I learn best by **building projects and contributing to open source**.  
+Currently focused on strengthening my **core CS fundamentals, problem-solving skills, and real-world development experience**.
 
-## 🚀 Projects I’m Proud Of
-
-### 🔹 KnowMap – Cross-Domain Knowledge Mapping
-A project focused on making complex information easier to understand.
-
-- Extracts entities and relationships from raw text  
-- Visualizes knowledge as an interactive graph  
-- Useful for exploring large or unfamiliar domains  
-
-**Tech used:** Python, NLP, Streamlit, Neo4j  
-
-### 🔹 AI-Powered Image Generator
-An experimental project exploring generative AI.
-
-- Converts text prompts into images  
-- Focused on understanding how generative models respond to user input  
-
-**Tech used:** Python, Machine Learning models  
-
-## 🛠 Technical Skills
-- **Programming:** Python, SQL, Java, C++
-- **AI / ML:** NLP, ML fundamentals, LLM concepts, AI,Promt Engineer,  
-- **Databases:** Neo4j, MongoDB  
-- **Tools & Platforms:** Git, GitHub, Streamlit, IBM Cloud, Watsonx.ai, Docker, Ansible
-
-## 🌱 Currently Learning
-- LLM application design  
-- Agentic AI concepts  
-- Backend architecture for AI systems  
+I value clean code, consistency, and continuous improvement.
 
 ---
 
-## 📫 Let’s Connect
-- **GitHub:** https://github.com/ishwari418  
-- **Email:** isharibelhekar11@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/ishwari-belhekar-1ba4bb31b/
+## 🛠 Tech Stack
+
+### Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r)
+
+### 🌐 Web Technologies
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+### 🗄 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
+
+---
+
+## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishwari418&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## Contribution Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ishwari418&theme=tokyonight" />
+</p>
+
+---
+---
+
+## GitHub Overview
+- Actively contributing to open-source projects  
+- Learning through real-world issues, PRs, and reviews  
+- Focused on consistency over shortcuts  
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/ishwari418" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/ishwari-belhekar-1ba4bb31b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:ishwaribelhekar11@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## Current Focus
+- Strengthening Data Structures & Algorithms  
+- Improving full-stack fundamentals  
+- Building meaningful projects  
+- Contributing consistently to open source  
+
+---
+
+⭐ *“Learning by building. Growing by contributing.”*
