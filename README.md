@@ -39,10 +39,9 @@ I value clean code, consistency, and continuous improvement.
 
 ---
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishwari418&show_icons=true&theme=tokyonight" />
-</p>
+### GitHub Stats
+![Ishwari's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishwari418&show_icons=true&theme=tokyonight)
+
 
 ---
 
