@@ -45,9 +45,12 @@ I value clean code, consistency, and continuous improvement.
 
 ---
 
-##  Contribution Streak
+## Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ishwari418&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ishwari418&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ---
 ---
