@@ -13,7 +13,7 @@ I value clean code, consistency, and continuous improvement.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
