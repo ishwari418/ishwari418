@@ -56,7 +56,7 @@ I value clean code, consistency, and continuous improvement.
 
 
 ---
----
+
 
 ## GitHub Overview
 - Actively contributing to open-source projects  
