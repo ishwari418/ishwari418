@@ -37,7 +37,7 @@ I value clean code, consistency, and continuous improvement.
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
 
----
+
 
 ## GitHub Stats
 
