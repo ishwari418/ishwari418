@@ -1,31 +1,16 @@
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=Hi%20there,%20I'm%20Ishwari!%20👋&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=AI%20%26%20ML%20Undergraduate%20%7C%20Sanjivani%20University&descAlignY=62&descSize=16&animation=fadeIn" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=2nd+Year+B.Tech+AIML+Student;Sanjivani+University+%7C+Batch+2028;Open+Source+Contributor;Exploring+Deep+Learning+%26+Data+Science;Always+learning%2C+always+building" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=2nd+Year+B.Tech+AIML+Student;Sanjivani+University+%7C+Batch+2028;Open+Source+Contributor;Exploring+Deep+Learning+%26+Data+Science;Always+learning%2C+always+building" />
 
 <br/><br/>
 
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=ishwari418&style=flat-square&color=58A6FF&label=Profile+Views)
-
- [
-
-![GitHub followers](https://img.shields.io/github/followers/ishwari418?style=flat-square&logo=github&color=58A6FF)
-
-](https://github.com/ishwari418?tab=followers) 
-
+[![GitHub followers](https://img.shields.io/github/followers/ishwari418?style=flat-square&logo=github&color=58A6FF)](https://github.com/ishwari418?tab=followers)
 ![Open to Internships](https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=flat-square)
-
- 
-
 ![University](https://img.shields.io/badge/University-Sanjivani%20University-orange?style=flat-square)
-
- 
-
 ![Batch](https://img.shields.io/badge/Batch-2028-blue?style=flat-square)
-
-
 
 </div>
 
