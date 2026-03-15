@@ -31,7 +31,7 @@ class IshwariBelhekar:
     open_to      = ["Internships", "Collaborations", "Open Source Projects"]
 
     motto        = "Learning by building. Growing by contributing."
-` `` 
+``` 
 
 <div align="center">
 
