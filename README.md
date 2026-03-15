@@ -1,6 +1,7 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,20,30&amp;height=180&amp;section=header&amp;text=Hi%20there,%20I'm%20Ishwari!%20👋&amp;fontSize=40&amp;fontColor=ffffff&amp;fontAlignY=40&amp;desc=AI%20%26%20ML%20Undergraduate%20%7C%20Sanjivani%20University&amp;descAlignY=62&amp;descSize=16&amp;animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=Hi%20there,%20I'm%20Ishwari&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=AI%20%26%20ML%20Undergraduate%20%7C%20Sanjivani%20University&descAlignY=62&descSize=16&animation=fadeIn)
+### Hi there, I'm Ishwari 👋
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=550&amp;lines=2nd+Year+B.Tech+AIML+Student;Sanjivani+University+%7C+Batch+2028;Open+Source+Contributor;Exploring+Deep+Learning+%26+Data+Science;Always+learning%2C+always+building)
 
