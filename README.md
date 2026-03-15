@@ -2,38 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=Hi%20there,%20I'm%20Ishwari!%20👋&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=AI%20%26%20ML%20Undergraduate%20%7C%20Sanjivani%20University&descAlignY=62&descSize=16&animation=fadeIn" width="100%" />
 
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=2nd+Year+B.Tech+AIML+Student;Sanjivani+University+%7C+Batch+2028;Open+Source+Contributor;Exploring+Deep+Learning+%26+Data+Science;Always+learning%2C+always+building" alt="Typing SVG" /></a>
 
-<div align="center">
-
-[
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=2nd+Year+B.Tech+AIML+Student+🎓;Sanjivani+University+%7C+Batch+2028;Open+Source+Contributor+🌟;Exploring+Deep+Learning+%26+Data+Science+🤖;Always+learning%2C+always+building+🛠️)
-
-](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 👩‍💻 About Me
-
-```python
-class IshwariBelhekar:
-    name         = "Ishwari Belhekar"
-    university   = "Sanjivani University, Kopargaon"
-    degree       = "B.Tech – Artificial Intelligence & Machine Learning"
-    year         = "2nd Year (Batch 2028)"
-    location     = "Maharashtra, India 🇮🇳"
-
-    interests    = ["Machine Learning", "Data Science", "Web Dev", "Open Source"]
-    learning     = ["Deep Learning", "MLOps", "DSA", "System Design"]
-    open_to      = ["Internships", "Collaborations", "Open Source Projects"]
-
-    motto        = "Learning by building. Growing by contributing."
-``` 
-
-<div align="center">
+<br/><br/>
 
 
 
@@ -62,6 +33,24 @@ class IshwariBelhekar:
 
 
 </div>
+
+---
+
+## 👩‍💻 About Me
+
+🎓 **Ishwari Belhekar** — 2nd Year B.Tech student in **Artificial Intelligence & Machine Learning** at **Sanjivani University, Kopargaon**, Maharashtra, India.
+
+🔭 I'm currently working on **ML models and data analysis projects**
+
+🌱 I'm currently learning **Deep Learning, MLOps, DSA and System Design**
+
+👯 I'm looking to collaborate on **Open Source Projects**
+
+💼 Open to **Internships and Collaborations**
+
+💬 Ask me about **Python, Machine Learning, Data Science**
+
+⚡ Motto: *"Learning by building. Growing by contributing."*
 
 ---
 
@@ -234,27 +223,6 @@ class IshwariBelhekar:
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ishwari418&repo=REPLACE_WITH_YOUR_REPO_1&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
-](https://github.com/ishwari418/REPLACE_WITH_YOUR_REPO_1)
-[
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ishwari418&repo=REPLACE_WITH_YOUR_REPO_2&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
-](https://github.com/ishwari418/REPLACE_WITH_YOUR_REPO_2)
-
-</div>
-
-> 💡 *Currently building ML models, data analysis pipelines, and web applications. More projects coming soon!*
-
----
-
 ## 🌱 Currently Learning
 
 | Topic | Status | Goal |
@@ -264,7 +232,13 @@ class IshwariBelhekar:
 | 🌐 Full-Stack Web Development | `In Progress` | Build complete web applications |
 | 🐳 Docker & MLOps | `Exploring` | Deploy ML models to production |
 | 📊 Data Science & EDA | `Ongoing` | Real-world data analysis projects |
-| ☁️ Cloud Basics (AWS / GCP) | `Upcoming` | Understand cloud for ML deployment |
+| ☁️ Cloud Basics (AWS / GCP) | `Upcoming` | Cloud for ML deployment |
+
+---
+
+## 🚀 Featured Projects
+
+> 💡 Currently building ML models, data analysis pipelines, and web apps. More coming soon!
 
 ---
 
@@ -294,13 +268,9 @@ class IshwariBelhekar:
 
 <div align="center">
 
-### 💬 Quote I Live By
-
 > *"The expert in anything was once a beginner."*
 
-<br/>
-
-**⭐ If you find my work helpful, consider giving a star on my repositories!**
+**⭐ If you find my work helpful, consider giving a star!**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer&animation=fadeIn" width="100%" />
 
