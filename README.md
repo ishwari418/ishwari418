@@ -1,12 +1,8 @@
 <div align="center">
 
-<img 
-src="https://capsule-render.vercel.app/api?
-type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=Hi%20there,%20I'm%20Ishwari!%20👋&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=AI%20%26%20ML%20Undergraduate%20%7C%20Sanjivani%20University&descAlignY=62&descSize=16&animation=fadeIn" width="100%" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=Hi%20there,%20I'm%20Ishwari!%20👋&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=AI%20%26%20ML%20Undergraduate%20%7C%20Sanjivani%20University&descAlignY=62&descSize=16&animation=fadeIn)
 
-<img 
-src="https://readme-typing-svg.demolab.com?
-font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=2nd+Year+B.Tech+AIML+Student;Sanjivani+University+%7C+Batch+2028;Open+Source+Contributor;Exploring+Deep+Learning+%26+Data+Science;Always+learning%2C+always+building" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=2nd+Year+B.Tech+AIML+Student;Sanjivani+University+%7C+Batch+2028;Open+Source+Contributor;Exploring+Deep+Learning+%26+Data+Science;Always+learning%2C+always+building)
 
 <br/><br/>
 
