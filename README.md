@@ -62,7 +62,7 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ishwari418&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&rank_icon=github" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwari418&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ishwari418 &count_private=true&include_all_commits=true&cache_seconds=0" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwari418&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
 </div>
 
 ---
