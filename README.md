@@ -73,8 +73,13 @@
 
 <div align="center">
 
-<!-- 🔥 Contribution Streak -->
-<img src="https://streak-stats.demolab.com?user=ishwari418&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&include_all_commits=true"https://streak-stats.demolab.com?user=ishwari418&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&include_all_commits=true&cache_seconds=0 />
+<div align="center">
+
+<!-- 🔹 GitHub Stats -->
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ishwari418&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true&cache_seconds=0" />
+
+<!-- 🔹 Top Languages -->
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwari418&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
 
 </div>
 
@@ -82,16 +87,18 @@
 
 <div align="center">
 
-<!-- 🏆 GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=ishwari418&theme=darkhub&no-frame=true&no-bg=true&margin-w=10" />
+<!-- 🔥 FIXED Streak -->
+<img src="https://streak-stats.demolab.com?user=ishwari418&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&include_all_commits=true&cache_seconds=0" />
 
 </div>
+
 ---
 
-## 📈 Contribution Activity Graph
-
 <div align="center">
-<a href=["https://github.com/ishwari418"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ishwari418&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB&hide_border=true"](https://github-readme-activity-graph.vercel.app/graph?username=ishwari418&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB&hide_border=true&custom_title=Ishwari's%20Real%20Activity&cache_seconds=0) /></a>
+
+<!-- 📊 FIXED Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishwari418&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB&hide_border=true&cache_seconds=0" />
+
 </div>
 
 ---
