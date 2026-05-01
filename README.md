@@ -1,13 +1,12 @@
+<p align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzNoaG1taDR0YWM4enZmd2tlNnd0d3hqdjZoaXl2cDRjbDlhMGlrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="200"/>
+
 <div align="center">
 
 
 ### Hi there, I'm Ishwari 👋
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=550&amp;lines=2nd+Year+B.Tech+AIML+Student;Sanjivani+University+%7C+Batch+2028;Open+Source+Contributor;Exploring+Deep+Learning+%26+Data+Science;Always+learning%2C+always+building)
-
-<p align="left">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzNoaG1taDR0YWM4enZmd2tlNnd0d3hqdjZoaXl2cDRjbDlhMGlrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="180"/>
-</p>
 
 <br/><br/>
 
@@ -18,6 +17,7 @@
 ![Batch](https://img.shields.io/badge/Batch-2028-blue?style=flat-square)
 
 </div>
+</p>
 
 ---
 
