@@ -5,6 +5,10 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=550&amp;lines=2nd+Year+B.Tech+AIML+Student;Sanjivani+University+%7C+Batch+2028;Open+Source+Contributor;Exploring+Deep+Learning+%26+Data+Science;Always+learning%2C+always+building)
 
+<p align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzNoaG1taDR0YWM4enZmd2tlNnd0d3hqdjZoaXl2cDRjbDlhMGlrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="300"/>
+</p>
+
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ishwari418&style=flat-square&color=58A6FF&label=Profile+Views)
