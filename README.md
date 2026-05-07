@@ -28,7 +28,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 **Ishwari Belhekar** — 2nd Year B.Tech student in **Artificial Intelligence & Machine Learning** at **Sanjivani University, Kopargaon**, Maharashtra, India.
+🎓 **Ishwari Belhekar** — 3rd Year B.Tech student in **Artificial Intelligence & Machine Learning** at **Sanjivani University, Kopargaon**, Maharashtra, India.
 
 🔭 Currently working on **ML models and data analysis projects**
 
