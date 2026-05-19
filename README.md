@@ -149,26 +149,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=2&section=header" width="100%"/>
 
-## 🧬 `[TECH_STACK_BADGES]`
-
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39FF14&labelColor=000000&color=39FF14)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=39FF14&labelColor=000000&color=39FF14)
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=39FF14&labelColor=000000&color=39FF14)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=39FF14&labelColor=000000&color=39FF14)
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=39FF14&labelColor=000000&color=39FF14)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=39FF14&labelColor=000000&color=39FF14)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=39FF14&labelColor=000000&color=39FF14)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39FF14&labelColor=000000&color=39FF14)
-
-## 📊 `[NEURO_LINK_STATS]`
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ishwari418&show_icons=true&theme=vue-dark&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=39FF14&count_private=true&include_all_commits=true" />
-<img height="160" src="https://streak-stats.demolab.com?user=ishwari418&theme=vue-dark&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&currStreakNum=39FF14&sideNums=39FF14&sideLabels=39FF14&dates=39FF14&include_all_commits=true" />
-
-## 📈 `[CONTRIBUTION_MATRIX]`
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishwari418&bg_color=000000&color=39FF14&line=39FF14&point=FFFFFF&area=true&area_color=000000&hide_border=true" />
-
 ## 🐉 `[WILD_ENCOUNTER: CONTRIBUTION_SNAKE]`
 
 <picture>
