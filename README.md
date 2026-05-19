@@ -8,7 +8,7 @@
 <div align="center">
 <h2> Hi there, I'm Ishwari 👋</h2>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=550&amp;lines=2nd+Year+B.Tech+AIML+Student;Sanjivani+University+%7C+Batch+2028;Open+Source+Contributor;Exploring+Deep+Learning+%26+Data+Science;Always+learning%2C+always+building)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=550&amp;lines=3rd+Year+B.Tech+AIML+Student;Sanjivani+University+%7C+Batch+2028;Open+Source+Contributor;Exploring+Deep+Learning+%26+Data+Science;Always+learning%2C+always+building)
 
 </td>
 </tr>
@@ -76,12 +76,12 @@
 <div align="center">
 
 <!-- 🔹 GitHub Stats -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ishwari418&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ishwari418&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" />
 
 <!-- 🔹 Top Languages -->
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwari418&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
-
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ishwari418&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
 </div>
+
 
 ---
 
@@ -96,25 +96,26 @@
 
 <div align="center">
 
-<!-- 📊 FIXED Activity Graph -->
+<!--  FIXED Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishwari418&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB&hide_border=true&cache_seconds=0" />
 
 </div>
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 | Topic | Status | Goal |
 |:---|:---:|:---|
-| 🤖 Deep Learning & Neural Networks | `In Progress` | Build end-to-end ML pipelines |
-| 📐 Data Structures & Algorithms | `In Progress` | Crack technical interviews |
-| 🌐 Full-Stack Web Development | `In Progress` | Build complete web applications |
-| 🐳 Docker & MLOps | `Exploring` | Deploy ML models to production |
-| 📊 Data Science & EDA | `Ongoing` | Real-world data analysis projects |
-| ☁️ Cloud Basics (AWS / GCP) | `Upcoming` | Cloud for ML deployment |
+|  Deep Learning & Neural Networks | `In Progress` | Build end-to-end ML pipelines |
+|  Data Structures & Algorithms | `In Progress` | Crack technical interviews |
+|  Full-Stack Web Development | `In Progress` | Build complete web applications |
+|  Docker & MLOps | `Exploring` | Deploy ML models to production |
+|  Data Science & EDA | `Ongoing` | Real-world data analysis projects |
+|  Cloud Basics (AWS / GCP) | `Upcoming` | Cloud for ML deployment |
 
 ---
+
 <!-- ========================================= -->
 <!-- 🐍 GITPULSE SECTION -->
 <!-- ========================================= -->
@@ -146,9 +147,11 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=4" width="100%"/>
 
 <br/>
+
 ---
 
 ## 📫 Connect With Me
+</div>
 
 [![GitHub](https://img.shields.io/badge/GitHub-ishwari418-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishwari418)
 
@@ -160,7 +163,10 @@
 
 <div align="center">
 
-> *"The expert in anything was once a beginner."*
+> "The expert in anything was once a beginner."
 
-**⭐ If you find my work helpful, consider giving a star!**
+*⭐ If you find my work helpful, consider giving a star!*
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer&animation=fadeIn" width="100%" />
+
+</div>
