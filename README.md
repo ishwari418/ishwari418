@@ -155,7 +155,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-ishwari418-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishwari418)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishwari%20Belhekar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishwari-belhekar-1ba4bb31b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishwari%20Belhekar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishwari-belhekar-1ba4bb31b)
 
 [![Email](https://img.shields.io/badge/Email-ishwaribelhekar11@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishwaribelhekar11@gmail.com)
 
