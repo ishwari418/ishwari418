@@ -72,11 +72,6 @@
   <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=ishwari418&theme=dracula&no-bg=true&no-frame=true&column=4&margin-w=20&margin-h=20" alt="GitHub Trophies" />
 </p>
 
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishwari418&custom_title=Ishwari's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" width="100%"/>
-
 ----
 <div align="center">
 
@@ -126,35 +121,31 @@
 
 <div align="center">
 
+<br/>
+
 <!-- Title -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=GITPULSE" alt="Title" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=GITPULSE" alt="Title" />
 
 <br/>
 
 <!-- Top Border -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=4" width="100%"/>
 
 <br/>
 
 <!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishwari418/ishwari418/output/github-contribution-grid-snake-dark.svg">
-  
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishwari418/ishwari418/output/github-contribution-grid-snake.svg">
-
-  <img 
-    alt="snake eating my contributions" 
-    src="https://raw.githubusercontent.com/ishwari418/ishwari418/output/github-contribution-grid-snake.svg"
-    width="100%">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ishwari418/ishwari418/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 <br/>
 
 <!-- Bottom Border -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=4" width="100%"/>
 
-</div>
-
+<br/>
 ---
 
 ## 📫 Connect With Me
