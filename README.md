@@ -71,7 +71,7 @@
 <div align="center">
 
 <!-- 🔹 GitHub Stats -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ishwari418&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true&cache_seconds=0" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ishwari418&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" />
 
 <!-- 🔹 Top Languages -->
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwari418&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
@@ -110,10 +110,40 @@
 | ☁️ Cloud Basics (AWS / GCP) | `Upcoming` | Cloud for ML deployment |
 
 ---
+<!-- ========================================= -->
+<!-- 🐍 GITPULSE SECTION -->
+<!-- ========================================= -->
 
-## 🚀 Featured Projects
+<div align="center">
 
-> 💡 Currently building ML models, data analysis pipelines, and web apps. More coming soon!
+<!-- Title -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=GITPULSE" alt="Title" />
+
+<br/>
+
+<!-- Top Border -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=4" width="100%"/>
+
+<br/>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishwari418/ishwari418/output/github-contribution-grid-snake-dark.svg">
+  
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishwari418/ishwari418/output/github-contribution-grid-snake.svg">
+
+  <img 
+    alt="snake eating my contributions" 
+    src="https://raw.githubusercontent.com/ishwari418/ishwari418/output/github-contribution-grid-snake.svg"
+    width="100%">
+</picture>
+
+<br/>
+
+<!-- Bottom Border -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=4" width="100%"/>
+
+</div>
 
 ---
 
@@ -133,36 +163,3 @@
 
 **⭐ If you find my work helpful, consider giving a star!**
 
-<!-- ========================================= -->
-<!-- 🐍 SNAKE ATTACK SECTION -->
-<!-- ========================================= -->
-
-<div align="center">
-
-<!-- Title -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=SNAKE+ATTACK" alt="Title" />
-
-<br/>
-
-<!-- Top Border -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=4" width="100%"/>
-
-<br/>
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishwari418/ishwari418/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishwari418/ishwari418/output/github-contribution-grid-snake.svg">
-  
-  <img 
-    alt="snake eating my contributions" 
-    src="https://raw.githubusercontent.com/ishwari418/ishwari418/output/github-contribution-grid-snake.svg"
-    width="100%">
-</picture>
-
-<br/>
-
-<!-- Bottom Border -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=4" width="100%"/>
-
-</div>
