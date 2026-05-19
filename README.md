@@ -67,7 +67,17 @@
 
 
 ---
+##  GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=ishwari418&theme=dracula&no-bg=true&no-frame=true&column=4&margin-w=20&margin-h=20" alt="GitHub Trophies" />
+</p>
 
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishwari418&custom_title=Ishwari's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" width="100%"/>
+
+----
 <div align="center">
 
 <!-- 🔹 GitHub Stats -->
