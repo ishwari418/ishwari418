@@ -136,3 +136,62 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer&animation=fadeIn" width="100%" />
 
 </div>
+
+<!-- ========================================== -->
+<!-- 🟢 CYBERPUNK / POKÉMON / HACKER SECTION 🟢 -->
+<!-- ========================================== -->
+<br>
+<div align="center">
+  
+# 🟩 `<System.Init()>`
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&weight=500&size=24&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=600&lines=Initializing+AI/ML+Protocols...;Loading+Neural+Networks...;Connecting+to+Cloud+Infrastructure...;Hacking+Open+Source+Repositories...;Catching+'em+all+with+Data+Science...)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=2&section=header" width="100%"/>
+
+## 🧬 `[TECH_STACK_BADGES]`
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39FF14&labelColor=000000&color=39FF14)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=39FF14&labelColor=000000&color=39FF14)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=39FF14&labelColor=000000&color=39FF14)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=39FF14&labelColor=000000&color=39FF14)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=39FF14&labelColor=000000&color=39FF14)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=39FF14&labelColor=000000&color=39FF14)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=39FF14&labelColor=000000&color=39FF14)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39FF14&labelColor=000000&color=39FF14)
+
+## 📊 `[NEURO_LINK_STATS]`
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ishwari418&show_icons=true&theme=vue-dark&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=39FF14&count_private=true&include_all_commits=true" />
+<img height="160" src="https://streak-stats.demolab.com?user=ishwari418&theme=vue-dark&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&currStreakNum=39FF14&sideNums=39FF14&sideLabels=39FF14&dates=39FF14&include_all_commits=true" />
+
+## 📈 `[CONTRIBUTION_MATRIX]`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishwari418&bg_color=000000&color=39FF14&line=39FF14&point=FFFFFF&area=true&area_color=000000&hide_border=true" />
+
+## 🐉 `[WILD_ENCOUNTER: CONTRIBUTION_SNAKE]`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishwari418/ishwari418/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishwari418/ishwari418/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ishwari418/ishwari418/output/github-contribution-grid-snake.svg">
+</picture>
+
+> **Custom SVG Styling Idea (Rayquaza Aesthetic):**
+> *To implement this, you can fork the `snk` action and modify the SVG generation logic.*
+> 1. **Color Palette:** Change the default contribution colors to Rayquaza's greens: `#000000` (empty), `#1F4E3D`, `#2E7D5C`, `#44B07B`, `#39FF14` (highest density).
+> 2. **Snake Head:** Replace the SVG dot representing the snake head with a pixel-art Rayquaza head sprite (`<image href="rayquaza_head_url.png".../>`).
+> 3. **Body Segments:** Use spiked polygons or scales instead of rounded rectangles for the trailing body to resemble Rayquaza's dragon body.
+> 4. **Animation:** Make the "eating" animation emit a small yellow pixel (hyper beam energy) before consuming a commit dot.
+
+## 📂 `[FEATURED_PROJECTS.EXE]`
+
+| `PROJECT_NAME` | `CLASSIFICATION` | `STATUS` |
+|:---|:---:|:---|
+| **[AI_Sentinel]** | Deep Learning / Anomaly Detection | `[ONLINE]` |
+| **[Cloud_Nexus]** | AWS Architecture / Data Pipeline | `[COMPILING...]` |
+| **[OpenSource_Drive]** | GSSoC '24 Contributor | `[ACTIVE]` |
+
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=2&section=footer" width="100%"/>
+</div>
