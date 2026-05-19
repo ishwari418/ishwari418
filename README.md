@@ -151,18 +151,7 @@
 
 ## 🐉 `[WILD_ENCOUNTER: CONTRIBUTION_SNAKE]`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishwari418/ishwari418/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishwari418/ishwari418/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ishwari418/ishwari418/output/github-contribution-grid-snake.svg">
-</picture>
-
-> **Custom SVG Styling Idea (Rayquaza Aesthetic):**
-> *To implement this, you can fork the `snk` action and modify the SVG generation logic.*
-> 1. **Color Palette:** Change the default contribution colors to Rayquaza's greens: `#000000` (empty), `#1F4E3D`, `#2E7D5C`, `#44B07B`, `#39FF14` (highest density).
-> 2. **Snake Head:** Replace the SVG dot representing the snake head with a pixel-art Rayquaza head sprite (`<image href="rayquaza_head_url.png".../>`).
-> 3. **Body Segments:** Use spiked polygons or scales instead of rounded rectangles for the trailing body to resemble Rayquaza's dragon body.
-> 4. **Animation:** Make the "eating" animation emit a small yellow pixel (hyper beam energy) before consuming a commit dot.
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishwari418/ishwari418/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishwari418/ishwari418/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ishwari418/ishwari418/output/github-contribution-grid-snake.svg"> </picture> </div>
 
 ## 📂 `[FEATURED_PROJECTS.EXE]`
 
