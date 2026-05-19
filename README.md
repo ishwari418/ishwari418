@@ -133,34 +133,36 @@
 
 **⭐ If you find my work helpful, consider giving a star!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer&animation=fadeIn" width="100%" />
+<!-- ========================================= -->
+<!-- 🐍 SNAKE ATTACK SECTION -->
+<!-- ========================================= -->
 
-</div>
-
-<!-- ========================================== -->
-<!-- 🟢 CYBERPUNK / POKÉMON / HACKER SECTION 🟢 -->
-<!-- ========================================== -->
-<br>
 <div align="center">
+
+<!-- Title -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=SNAKE+ATTACK" alt="Title" />
+
+<br/>
+
+<!-- Top Border -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=4" width="100%"/>
+
+<br/>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishwari418/ishwari418/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishwari418/ishwari418/output/github-contribution-grid-snake.svg">
   
-# 🟩 `<System.Init()>`
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&weight=500&size=24&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=600&lines=Initializing+AI/ML+Protocols...;Loading+Neural+Networks...;Connecting+to+Cloud+Infrastructure...;Hacking+Open+Source+Repositories...;Catching+'em+all+with+Data+Science...)](https://git.io/typing-svg)
+  <img 
+    alt="snake eating my contributions" 
+    src="https://raw.githubusercontent.com/ishwari418/ishwari418/output/github-contribution-grid-snake.svg"
+    width="100%">
+</picture>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=2&section=header" width="100%"/>
+<br/>
 
-## 🐉 `[WILD_ENCOUNTER: CONTRIBUTION_SNAKE]`
+<!-- Bottom Border -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=4" width="100%"/>
 
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishwari418/ishwari418/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishwari418/ishwari418/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ishwari418/ishwari418/output/github-contribution-grid-snake.svg"> </picture> </div>
-
-## 📂 `[FEATURED_PROJECTS.EXE]`
-
-| `PROJECT_NAME` | `CLASSIFICATION` | `STATUS` |
-|:---|:---:|:---|
-| **[AI_Sentinel]** | Deep Learning / Anomaly Detection | `[ONLINE]` |
-| **[Cloud_Nexus]** | AWS Architecture / Data Pipeline | `[COMPILING...]` |
-| **[OpenSource_Drive]** | GSSoC '24 Contributor | `[ACTIVE]` |
-
-<br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=39FF14&height=2&section=footer" width="100%"/>
 </div>
