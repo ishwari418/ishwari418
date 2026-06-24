@@ -6,7 +6,7 @@
     </td>
     <td>
 <div align="center">
-<h2> Hi there, I'm Ishwari 👋</h2>
+<h2> Hi there, I'm Ishwari </h2>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=550&amp;lines=3rd+Year+B.Tech+AIML+Student;Sanjivani+University+%7C+Batch+2028;Open+Source+Contributor;Exploring+Deep+Learning+%26+Data+Science;Always+learning%2C+always+building)
 
